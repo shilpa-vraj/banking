@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	
+}
+
+body {
+	font-size: 18px;
+	font-family: "Lato", serif;
+}
+.brand-logo {
+	margin: 10px 0px 0px 10px;
+}
+.description {
+	margin-top: 130px;
+}
+.vector {
+	padding: 30px;
+}
+.go-to {
+	text-align: center;
+	padding: 30px;
+}
+.space {
+	margin: 70px;
+	border: 2px black solid;
+}
+label {
+	font-size: 1em;
+}
